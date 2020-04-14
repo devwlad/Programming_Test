@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchWord</string>
+    <string name="search_button">Search</string>
+    <string name="clear_button">Reset</string>
+</resources>
